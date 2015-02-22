@@ -41,10 +41,16 @@ class Result implements ExportableInterface {
      */
     public function asArray() {
         return array(
+            
+            
+            
             'maintenabilityIndexWithoutComment' => (string) $this->getMaintenabilityIndexWithoutComment()
             , 'maintenabilityIndex' => (string) $this->getMaintenabilityIndex()
-            , 'commentWeight' => (float) $this->getCommentWeight()
+            , 'commentWeight'      => (float) $this->getCommentWeight()
         );
+        
+        $testing;
+        $test - sads
     }
 
     /**
