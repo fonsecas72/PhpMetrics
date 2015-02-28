@@ -1,5 +1,7 @@
 # PhpMetrics
 
+[![Join the chat at https://gitter.im/fonsecas72/PhpMetrics](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fonsecas72/PhpMetrics?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Gives metrics about PHP project and classes.
 
 [![License](https://poser.pugx.org/halleck45/php-metrics/license.svg)](https://packagist.org/packages/halleck45/php-metrics)
